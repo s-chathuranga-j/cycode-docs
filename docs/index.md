@@ -6,43 +6,42 @@ nav_order: 1
 
 # CyJet Documentation
 
-Welcome to the official documentation for CyJet – a powerful JetBrains Plugin for Cypress automation!
+Welcome to the official documentation for CyJet – a powerful VS Code Plugin for Cypress automation!
 
 ## Documentation Contents
 
 - [Overview](#overview)
 - [Installation](#installation)
 - [Getting Started](#getting-started)
-- [Detailed Usage Guide](detailed-usage.md)
 - [Support and Community](#support-and-community)
 - [Stay Connected](#stay-connected)
 
 ## Overview
 
-CyJet is an IntelliJ-based plugin that enhances your Cypress automation workflow by providing a seamless integration between JetBrains IDEs and Cypress testing framework.
+CyJet is a Visual Studio Code plugin that enhances the Cypress automation workflow by providing a seamless integration between VS Code and the Cypress testing framework.
 
 ### Key Features
 
-- **Graphical Interface**: Open Cypress GUI or Run Cypress tests directly from your IDE
+- **Graphical Interface**: Open Cypress GUI or Run Cypress tests directly from VS Code
 - **Quick Spec Selection**: Search & Choose test specs through an interactive UI
 - **Browser Selection**: Select your preferred browser for test execution
-- **Debugging Support**: Easily debug your tests with the built-in debugger (Coming soon!)
+- **Integration with VS Code IDE**: Better Cypress test management
 
 ## Installation
 
-1. Open your JetBrains IDE (IntelliJ IDEA, WebStorm, etc.)
-2. Go to Settings
-3. Navigate to Plugins
-4. Click on "Marketplace" tab
-5. Search for "CyJet"
-6. Click Install
-7. Restart your IDE
+1. Open VS Code
+2. Go to Extensions (Ctrl+Shift+X or Cmd+Shift+X)
+3. Search for "CyJet"
+4. Click Install
+5. Reload VS Code if prompted
+
+Alternatively, you can install it directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ChathurangaJayasinghe.CyJet) or download the VSIX file from [Releases](https://github.com/s-chathuranga-j/cycode-docs/releases).
 
 ## Getting Started
 
 After installation, you can access CyJet features through:
 
-1. The Cypress button in your Run/Debug toolbar
+1. The Cypress button in your VS Code toolbar
 2. Click on the Cypress button to reveal the CyJet options
 
 ### Basic Usage
@@ -51,34 +50,31 @@ After installation, you can access CyJet features through:
    - Open the Cypress Test Runner GUI without having to run any terminal commands
 
 2. **Run Cypress Tests Directly**
-   - Search, select, and run Cypress tests in `headless mode` directly from your IDE
+   - Search, select, and run Cypress tests in `headless mode` directly from VS Code
 
 3. **Test Execution Status & Results**
-   - Check the test execution progress and results in the IDE's Run/Debug window
-   
+   - Check the test execution progress and results in the VS Code's output window
 
-## Planned Features
 
-We're constantly working to improve CyJet. Here are some upcoming features:
+## Planned Features & Roadmap
 
-- Support for running tests in headed mode
-- Cypress cloud integration
-- VS Code extension (future consideration)
-- Enhanced error handling and debugging tools
-- Reach the official Cypress documentation directly from the IDE
+**Upcoming Enhancements**
+- **Configure Cypress cloud & run on Cloud via plugin**
+- **Improved Error Handling & Debugging Tools**
+- **AI based suggestions to enhance Cypress tests**
 
 ## Support and Community
 
-- [Report Issues](https://github.com/s-chathuranga-j/cyjet-docs/issues/new)
-- [Feature Requests](https://github.com/s-chathuranga-j/cyjet-docs/issues/new?assignees=&labels=feature-request)
-- [FAQ](https://github.com/s-chathuranga-j/cyjet-docs#faqs)
+- [Report Issues](https://github.com/s-chathuranga-j/cycode-docs/issues/new)
+- [Feature Requests](https://github.com/s-chathuranga-j/cycode-docs/issues/new?assignees=&labels=feature-request)
+- [FAQ](https://github.com/s-chathuranga-j/cycode-docs#faqs)
 
 ## Stay Connected
 
-- [Official Website](https://s-chathuranga-j.github.io/cyjet-docs/)
-- [LinkedIn](https://x.com/SChathurangaJ)
-- [Twitter/X](https://twitter.com/your-handle)
+- [Official Website](https://s-chathuranga-j.github.io/cycode-docs/)
+- [LinkedIn](https://www.linkedin.com/in/schathurangaj/)
+- [Twitter/X](https://x.com/SChathurangaJ)
 
 ---
 
-*For the latest updates and announcements, star our [GitHub repository](https://github.com/s-chathuranga-j/cyjet-docs)!*
+*For the latest updates and announcements, star our [GitHub repository](https://github.com/s-chathuranga-j/cycode-docs)!*

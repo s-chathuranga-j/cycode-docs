@@ -1,7 +1,7 @@
 # Site settings
 title: CyJet Documentation
-description: Official documentation for CyJet - JetBrains Plugin for Cypress automation
-baseurl: "/cyjet-docs"
+description: Official documentation for CyJet - VS Code Plugin for Cypress automation
+baseurl: "/cycode-docs"
 url: "https://s-chathuranga-j.github.io"
 
 # Theme settings
@@ -14,7 +14,7 @@ search_enabled: true
 # Aux links for the upper right navigation
 aux_links:
   "CyJet on GitHub":
-    - "https://github.com/s-chathuranga-j/cyjet-issues"
+    - "https://github.com/s-chathuranga-j/cycode-docs"
 
 # Footer content
 footer_content: "Copyright &copy; 2024 CyJet. Distributed under the MIT license."
