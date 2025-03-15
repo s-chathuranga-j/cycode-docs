@@ -41,8 +41,8 @@ Alternatively, you can install it directly from the [VS Code Marketplace](https:
 
 After installation, you can access CyJet features through:
 
-1. The Cypress button in your VS Code toolbar
-2. Click on the Cypress button to reveal the CyJet options
+1. The CyJet button in your VS Code Activity Toolbar
+2. Click on the CyJet button to reveal the CyJet Space on the sidebar of the VS Code
 
 ### Basic Usage
 
@@ -50,10 +50,13 @@ After installation, you can access CyJet features through:
    - Open the Cypress Test Runner GUI without having to run any terminal commands
 
 2. **Run Cypress Tests Directly**
-   - Search, select, and run Cypress tests in `headless mode` directly from VS Code
+   - Search, select, and run Cypress tests in `headless or headded mode` directly from VS Code
 
-3. **Test Execution Status & Results**
-   - Check the test execution progress and results in the VS Code's output window
+3. **Visit the Official Cypress Docs**
+   - Official Cypress Docs are just a click away for quick reference
+
+4. **Test Execution Status & Results**
+   - Check the test execution progress and results in the VS Code's terminal window
 
 
 ## Planned Features & Roadmap
